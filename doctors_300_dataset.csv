@@ -1,0 +1,301 @@
+doctor_id,doctor_name_en,doctor_name_hi,specialty,sub_specialty,occupation,hospital_name,location_area,languages,diseases_treated,rating,reviews_count,consultation_duration_mins,telemedicine,fee,experience_years
+D001,Dr. Sanjay Yadav,डॉ. Sa Ya,Oncology,Stomach Cancer,Consultant,Delhi Apex Cancer Hospital,Noida Sector 62,"English,Hindi","Gastric Cancer,Liver Cancer,Colon Cancer",3.9,306,15,False,1718,10
+D002,Dr. Vikram Rastogi,डॉ. Vi Ra,Oncology,Prostate Cancer,Chief Oncologist,Noida Oncology Institute,Ghaziabad,"English,Hindi",Prostate Tumor,4.3,975,10,False,1387,18
+D003,Dr. Varun Gupta,डॉ. Va Gu,Oncology,Stomach Cancer,Consultant,Faridabad Oncology Hospital,Delhi Saket,"English,Hindi","Gastric Cancer,Liver Cancer,Colon Cancer",4.4,734,10,False,612,7
+D004,Dr. Pooja Bansal,डॉ. Po Ba,Oncology,Ovarian Cancer,Consultant,Delhi Apex Cancer Hospital,Greater Noida,"English,Hindi",Ovarian Tumor,3.6,1485,15,False,1631,7
+D005,Dr. Nidhi Rao,डॉ. Ni Ra,Oncology,Blood Cancer,Chief Oncologist,Indirapuram Cancer Care,Greater Noida,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.0,474,15,False,2751,9
+D006,Dr. Geeta Goel,डॉ. Ge Go,Oncology,Cervical Cancer,Consultant,Ghaziabad Tumor Centre,Indirapuram,"English,Hindi",Cervical Tumor,4.6,449,10,True,1591,20
+D007,Dr. Manish Rao,डॉ. Ma Ra,Oncology,Breast Cancer,Senior Consultant,Ghaziabad Tumor Centre,Noida Sector 62,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",4.7,1498,15,False,1931,17
+D008,Dr. Priya Rao,डॉ. Pr Ra,Oncology,Prostate Cancer,Chief Oncologist,Cyber City Oncology Centre,Botanical Garden,"English,Hindi",Prostate Tumor,4.8,1471,10,False,757,8
+D009,Dr. Sneha Agarwal,डॉ. Sn Ag,Oncology,Ovarian Cancer,Consultant,Delhi Apex Cancer Hospital,Noida Sector 62,"English,Hindi",Ovarian Tumor,3.6,447,15,False,2100,5
+D010,Dr. Rakesh Gupta,डॉ. Ra Gu,Oncology,Kidney Cancer,Senior Consultant,Noida Oncology Institute,Greater Noida,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",4.7,375,10,True,821,8
+D011,Dr. Ritu Rastogi,डॉ. Ri Ra,Oncology,Lung Cancer,Senior Consultant,Noida Cancer Center,Indirapuram,"English,Hindi","NSCLC,SCLC,Lung Tumor",4.5,1492,15,False,2808,12
+D012,Dr. Karan Rao,डॉ. Ka Ra,Oncology,Kidney Cancer,Senior Consultant,Delhi Apex Cancer Hospital,Delhi Rohini,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",3.9,281,15,False,2329,5
+D013,Dr. Rakesh Sharma,डॉ. Ra Sh,Oncology,Cervical Cancer,Chief Oncologist,Cyber City Oncology Centre,Gurugram Cyber City,"English,Hindi",Cervical Tumor,4.6,363,10,False,856,14
+D014,Dr. Rajeev Bansal,डॉ. Ra Ba,Oncology,Breast Cancer,Consultant,Botanical Oncology Hospital,Greater Noida,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",4.8,1199,10,True,2777,5
+D015,Dr. Kavita Choudhary,डॉ. Ka Ch,Oncology,Brain Tumor,Senior Consultant,Cyber City Oncology Centre,Faridabad,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",4.6,1279,15,False,1273,10
+D016,Dr. Rakesh Goel,डॉ. Ra Go,Oncology,Stomach Cancer,Senior Consultant,Noida Cancer Center,Ghaziabad,"English,Hindi","Gastric Cancer,Liver Cancer,Colon Cancer",4.6,573,10,False,533,10
+D017,Dr. Pooja Verma,डॉ. Po Ve,Oncology,Lung Cancer,Chief Oncologist,Cyber City Oncology Centre,Gurugram Cyber City,"English,Hindi","NSCLC,SCLC,Lung Tumor",4.2,1269,15,True,1818,6
+D018,Dr. Sameer Sharma,डॉ. Sa Sh,Oncology,Blood Cancer,Consultant,Indirapuram Cancer Care,Greater Noida,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.7,734,15,False,1430,19
+D019,Dr. Rakesh Jain,डॉ. Ra Ja,Oncology,Bone Cancer,Chief Oncologist,Cyber City Oncology Centre,Faridabad,"English,Hindi","Sarcoma,Osteosarcoma",5.0,1238,10,False,2508,17
+D020,Dr. Priya Mehra,डॉ. Pr Me,Oncology,Cervical Cancer,Consultant,Noida Cancer Center,Ghaziabad,"English,Hindi",Cervical Tumor,4.3,1070,15,False,1458,23
+D021,Dr. Sneha Jain,डॉ. Sn Ja,Oncology,Prostate Cancer,Chief Oncologist,Cyber City Oncology Centre,Gurugram Cyber City,"English,Hindi",Prostate Tumor,4.9,1259,10,True,2681,13
+D022,Dr. Sneha Mehra,डॉ. Sn Me,Oncology,Blood Cancer,Senior Consultant,Noida Oncology Institute,Ghaziabad,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.8,441,15,True,2329,19
+D023,Dr. Sanjay Mehra,डॉ. Sa Me,Oncology,Skin Cancer,Chief Oncologist,Indirapuram Cancer Care,Gurugram Cyber City,"English,Hindi","Melanoma,Non-Melanoma Skin Cancer",3.7,1371,15,False,1438,11
+D024,Dr. Harsh Verma,डॉ. Ha Ve,Oncology,Lung Cancer,Chief Oncologist,Faridabad Oncology Hospital,Gurugram Cyber City,"English,Hindi","NSCLC,SCLC,Lung Tumor",4.1,566,15,True,2667,5
+D025,Dr. Sameer Patel,डॉ. Sa Pa,Oncology,Ovarian Cancer,Senior Consultant,Noida Cancer Center,Indirapuram,"English,Hindi",Ovarian Tumor,3.7,1441,15,True,2424,6
+D026,Dr. Varun Kapoor,डॉ. Va Ka,Oncology,Prostate Cancer,Consultant,Faridabad Oncology Hospital,Indirapuram,"English,Hindi",Prostate Tumor,4.1,327,15,False,2492,14
+D027,Dr. Karan Bansal,डॉ. Ka Ba,Oncology,Lung Cancer,Chief Oncologist,Gurugram Super Speciality Oncology,Greater Noida,"English,Hindi","NSCLC,SCLC,Lung Tumor",4.9,571,15,True,904,5
+D028,Dr. Sneha Kapoor,डॉ. Sn Ka,Oncology,Brain Tumor,Consultant,Noida Cancer Center,Delhi Saket,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",4.2,1311,15,False,2541,16
+D029,Dr. Sameer Gupta,डॉ. Sa Gu,Oncology,Breast Cancer,Chief Oncologist,Faridabad Oncology Hospital,Botanical Garden,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",4.1,899,10,False,1160,30
+D030,Dr. Neha Kapoor,डॉ. Ne Ka,Oncology,Kidney Cancer,Consultant,Noida Oncology Institute,Botanical Garden,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",4.7,521,10,True,1030,10
+D031,Dr. Rajeev Verma,डॉ. Ra Ve,Oncology,Lung Cancer,Senior Consultant,Ghaziabad Tumor Centre,Gurugram Cyber City,"English,Hindi","NSCLC,SCLC,Lung Tumor",5.0,1431,15,False,1890,16
+D032,Dr. Manish Kapoor,डॉ. Ma Ka,Oncology,Ovarian Cancer,Chief Oncologist,Noida Oncology Institute,Noida Sector 62,"English,Hindi",Ovarian Tumor,3.6,485,10,False,1713,13
+D033,Dr. Pooja Yadav,डॉ. Po Ya,Oncology,Blood Cancer,Senior Consultant,Noida Cancer Center,Botanical Garden,"English,Hindi","Leukemia,Lymphoma,Myeloma",3.6,798,10,False,1990,10
+D034,Dr. Karan Agarwal,डॉ. Ka Ag,Oncology,Blood Cancer,Senior Consultant,Saket Cancer Institute,Faridabad,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.3,769,10,False,1048,9
+D035,Dr. Varun Choudhary,डॉ. Va Ch,Oncology,Prostate Cancer,Consultant,Cyber City Oncology Centre,Botanical Garden,"English,Hindi",Prostate Tumor,4.6,289,10,True,1661,23
+D036,Dr. Varun Choudhary,डॉ. Va Ch,Oncology,Stomach Cancer,Senior Consultant,Cyber City Oncology Centre,Ghaziabad,"English,Hindi","Gastric Cancer,Liver Cancer,Colon Cancer",5.0,825,10,False,1631,25
+D037,Dr. Anjali Kapoor,डॉ. An Ka,Oncology,Blood Cancer,Senior Consultant,Faridabad Oncology Hospital,Greater Noida,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.6,870,10,True,1065,24
+D038,Dr. Karan Sharma,डॉ. Ka Sh,Oncology,Bone Cancer,Senior Consultant,Cyber City Oncology Centre,Noida Sector 62,"English,Hindi","Sarcoma,Osteosarcoma",4.5,1226,10,True,2278,6
+D039,Dr. Geeta Verma,डॉ. Ge Ve,Oncology,Brain Tumor,Senior Consultant,Faridabad Oncology Hospital,Noida Sector 18,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",4.1,1414,10,False,1234,29
+D040,Dr. Nidhi Choudhary,डॉ. Ni Ch,Oncology,Lung Cancer,Senior Consultant,Ghaziabad Tumor Centre,Indirapuram,"English,Hindi","NSCLC,SCLC,Lung Tumor",4.8,681,15,True,906,9
+D041,Dr. Harsh Choudhary,डॉ. Ha Ch,Oncology,Kidney Cancer,Senior Consultant,Delhi Apex Cancer Hospital,Noida Sector 18,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",4.9,1477,10,True,1784,6
+D042,Dr. Nidhi Singh,डॉ. Ni Si,Oncology,Blood Cancer,Consultant,Saket Cancer Institute,Ghaziabad,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.3,109,15,True,1094,6
+D043,Dr. Vikram Bansal,डॉ. Vi Ba,Oncology,Pediatric Cancer,Senior Consultant,Indirapuram Cancer Care,Indirapuram,"English,Hindi","Pediatric Leukemia,Neuroblastoma",4.8,924,10,False,1076,15
+D044,Dr. Kavita Rao,डॉ. Ka Ra,Oncology,Brain Tumor,Chief Oncologist,Indirapuram Cancer Care,Noida Sector 18,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",3.6,668,10,True,796,16
+D045,Dr. Sneha Choudhary,डॉ. Sn Ch,Oncology,Skin Cancer,Consultant,Ghaziabad Tumor Centre,Botanical Garden,"English,Hindi","Melanoma,Non-Melanoma Skin Cancer",4.7,968,10,False,669,26
+D046,Dr. Ritu Verma,डॉ. Ri Ve,Oncology,Kidney Cancer,Senior Consultant,Noida Oncology Institute,Noida Sector 62,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",4.6,177,15,False,1042,16
+D047,Dr. Harsh Agarwal,डॉ. Ha Ag,Oncology,Prostate Cancer,Chief Oncologist,Ghaziabad Tumor Centre,Delhi Rohini,"English,Hindi",Prostate Tumor,4.1,1412,10,False,2248,26
+D048,Dr. Priya Patel,डॉ. Pr Pa,Oncology,Stomach Cancer,Senior Consultant,Noida Cancer Center,Indirapuram,"English,Hindi","Gastric Cancer,Liver Cancer,Colon Cancer",4.1,218,10,True,1481,12
+D049,Dr. Kavita Agarwal,डॉ. Ka Ag,Oncology,Blood Cancer,Consultant,Gurugram Super Speciality Oncology,Noida Sector 18,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.2,162,15,False,2355,8
+D050,Dr. Karan Patel,डॉ. Ka Pa,Oncology,Blood Cancer,Consultant,Faridabad Oncology Hospital,Greater Noida,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.1,877,15,False,746,24
+D051,Dr. Ritu Verma,डॉ. Ri Ve,Oncology,Ovarian Cancer,Consultant,Cyber City Oncology Centre,Greater Noida,"English,Hindi",Ovarian Tumor,4.1,1064,10,True,2573,16
+D052,Dr. Rakesh Bansal,डॉ. Ra Ba,Oncology,Ovarian Cancer,Consultant,Faridabad Oncology Hospital,Ghaziabad,"English,Hindi",Ovarian Tumor,3.7,1211,15,False,2950,8
+D053,Dr. Rakesh Kapoor,डॉ. Ra Ka,Oncology,Bone Cancer,Senior Consultant,Faridabad Oncology Hospital,Botanical Garden,"English,Hindi","Sarcoma,Osteosarcoma",5.0,1426,15,True,2742,20
+D054,Dr. Nidhi Bansal,डॉ. Ni Ba,Oncology,Kidney Cancer,Chief Oncologist,Noida Oncology Institute,Botanical Garden,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",3.8,428,15,True,2657,5
+D055,Dr. Nidhi Gupta,डॉ. Ni Gu,Oncology,Stomach Cancer,Chief Oncologist,Gurugram Super Speciality Oncology,Noida Sector 18,"English,Hindi","Gastric Cancer,Liver Cancer,Colon Cancer",3.8,1026,15,True,1991,28
+D056,Dr. Varun Goel,डॉ. Va Go,Oncology,Skin Cancer,Consultant,Indirapuram Cancer Care,Noida Sector 62,"English,Hindi","Melanoma,Non-Melanoma Skin Cancer",3.8,1123,10,True,2255,21
+D057,Dr. Neha Rao,डॉ. Ne Ra,Oncology,Skin Cancer,Consultant,Saket Cancer Institute,Delhi Rohini,"English,Hindi","Melanoma,Non-Melanoma Skin Cancer",3.7,848,10,False,1869,6
+D058,Dr. Sanjay Rastogi,डॉ. Sa Ra,Oncology,Breast Cancer,Chief Oncologist,Noida Oncology Institute,Delhi Rohini,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",4.0,674,15,False,565,5
+D059,Dr. Geeta Jain,डॉ. Ge Ja,Oncology,Lung Cancer,Senior Consultant,Cyber City Oncology Centre,Delhi Saket,"English,Hindi","NSCLC,SCLC,Lung Tumor",3.5,654,10,True,1178,23
+D060,Dr. Sanjay Verma,डॉ. Sa Ve,Oncology,Pediatric Cancer,Chief Oncologist,Botanical Oncology Hospital,Delhi Saket,"English,Hindi","Pediatric Leukemia,Neuroblastoma",4.0,1469,15,True,658,13
+D061,Dr. Yash Rao,डॉ. Ya Ra,Oncology,Prostate Cancer,Senior Consultant,Delhi Apex Cancer Hospital,Indirapuram,"English,Hindi",Prostate Tumor,4.3,1330,10,True,3000,15
+D062,Dr. Kavita Verma,डॉ. Ka Ve,Oncology,Skin Cancer,Consultant,Saket Cancer Institute,Greater Noida,"English,Hindi","Melanoma,Non-Melanoma Skin Cancer",4.0,200,15,True,1270,19
+D063,Dr. Rakesh Bansal,डॉ. Ra Ba,Oncology,Cervical Cancer,Senior Consultant,Gurugram Super Speciality Oncology,Delhi Rohini,"English,Hindi",Cervical Tumor,4.6,62,15,False,2926,17
+D064,Dr. Ritu Verma,डॉ. Ri Ve,Oncology,Prostate Cancer,Chief Oncologist,Saket Cancer Institute,Delhi Saket,"English,Hindi",Prostate Tumor,4.6,1011,15,True,2229,14
+D065,Dr. Ritu Bansal,डॉ. Ri Ba,Oncology,Bone Cancer,Consultant,Cyber City Oncology Centre,Indirapuram,"English,Hindi","Sarcoma,Osteosarcoma",4.0,450,10,False,2273,18
+D066,Dr. Anjali Rao,डॉ. An Ra,Oncology,Blood Cancer,Consultant,Faridabad Oncology Hospital,Noida Sector 18,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.5,469,10,True,1925,10
+D067,Dr. Sanjay Rao,डॉ. Sa Ra,Oncology,Prostate Cancer,Chief Oncologist,Faridabad Oncology Hospital,Noida Sector 62,"English,Hindi",Prostate Tumor,5.0,59,10,False,2184,8
+D068,Dr. Anjali Kapoor,डॉ. An Ka,Oncology,Pediatric Cancer,Chief Oncologist,Noida Oncology Institute,Noida Sector 62,"English,Hindi","Pediatric Leukemia,Neuroblastoma",4.4,1326,10,True,880,25
+D069,Dr. Neha Verma,डॉ. Ne Ve,Oncology,Stomach Cancer,Consultant,Noida Oncology Institute,Delhi Saket,"English,Hindi","Gastric Cancer,Liver Cancer,Colon Cancer",3.9,1325,15,False,2160,18
+D070,Dr. Harsh Singh,डॉ. Ha Si,Oncology,Breast Cancer,Chief Oncologist,Cyber City Oncology Centre,Gurugram Cyber City,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",4.6,116,10,True,2121,22
+D071,Dr. Sameer Agarwal,डॉ. Sa Ag,Oncology,Brain Tumor,Consultant,Delhi Apex Cancer Hospital,Delhi Saket,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",4.9,755,10,False,509,10
+D072,Dr. Geeta Rastogi,डॉ. Ge Ra,Oncology,Blood Cancer,Chief Oncologist,Noida Oncology Institute,Gurugram Cyber City,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.5,1166,10,True,519,11
+D073,Dr. Anjali Singh,डॉ. An Si,Oncology,Ovarian Cancer,Chief Oncologist,Faridabad Oncology Hospital,Ghaziabad,"English,Hindi",Ovarian Tumor,4.0,1111,15,True,2877,11
+D074,Dr. Anjali Jain,डॉ. An Ja,Oncology,Kidney Cancer,Consultant,Ghaziabad Tumor Centre,Noida Sector 62,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",3.9,1123,10,True,521,25
+D075,Dr. Harsh Agarwal,डॉ. Ha Ag,Oncology,Pediatric Cancer,Senior Consultant,Saket Cancer Institute,Faridabad,"English,Hindi","Pediatric Leukemia,Neuroblastoma",4.0,1442,10,True,1533,13
+D076,Dr. Neha Choudhary,डॉ. Ne Ch,Oncology,Kidney Cancer,Senior Consultant,Noida Cancer Center,Noida Sector 18,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",4.1,480,10,True,1354,23
+D077,Dr. Ritu Bansal,डॉ. Ri Ba,Oncology,Bone Cancer,Senior Consultant,Cyber City Oncology Centre,Botanical Garden,"English,Hindi","Sarcoma,Osteosarcoma",4.0,307,10,False,2662,11
+D078,Dr. Rajeev Sharma,डॉ. Ra Sh,Oncology,Lung Cancer,Senior Consultant,Ghaziabad Tumor Centre,Ghaziabad,"English,Hindi","NSCLC,SCLC,Lung Tumor",3.8,131,15,True,1525,30
+D079,Dr. Rajeev Bansal,डॉ. Ra Ba,Oncology,Brain Tumor,Senior Consultant,Ghaziabad Tumor Centre,Delhi Rohini,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",4.9,986,10,False,2694,6
+D080,Dr. Nidhi Bansal,डॉ. Ni Ba,Oncology,Cervical Cancer,Senior Consultant,Botanical Oncology Hospital,Gurugram Cyber City,"English,Hindi",Cervical Tumor,3.9,199,15,True,2563,7
+D081,Dr. Sneha Yadav,डॉ. Sn Ya,Oncology,Stomach Cancer,Chief Oncologist,Faridabad Oncology Hospital,Delhi Rohini,"English,Hindi","Gastric Cancer,Liver Cancer,Colon Cancer",4.9,1054,10,True,618,24
+D082,Dr. Priya Verma,डॉ. Pr Ve,Oncology,Lung Cancer,Consultant,Botanical Oncology Hospital,Indirapuram,"English,Hindi","NSCLC,SCLC,Lung Tumor",4.1,1268,15,True,1904,24
+D083,Dr. Priya Sharma,डॉ. Pr Sh,Oncology,Lung Cancer,Consultant,Faridabad Oncology Hospital,Gurugram Cyber City,"English,Hindi","NSCLC,SCLC,Lung Tumor",3.8,807,10,True,686,11
+D084,Dr. Anjali Yadav,डॉ. An Ya,Oncology,Cervical Cancer,Senior Consultant,Botanical Oncology Hospital,Gurugram Cyber City,"English,Hindi",Cervical Tumor,4.3,349,15,True,2725,22
+D085,Dr. Varun Bansal,डॉ. Va Ba,Oncology,Lung Cancer,Senior Consultant,Ghaziabad Tumor Centre,Indirapuram,"English,Hindi","NSCLC,SCLC,Lung Tumor",4.1,1126,15,True,1042,6
+D086,Dr. Karan Patel,डॉ. Ka Pa,Oncology,Ovarian Cancer,Consultant,Delhi Apex Cancer Hospital,Ghaziabad,"English,Hindi",Ovarian Tumor,4.8,311,15,False,2568,10
+D087,Dr. Sanjay Mehra,डॉ. Sa Me,Oncology,Kidney Cancer,Consultant,Botanical Oncology Hospital,Greater Noida,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",4.4,1017,15,False,1981,5
+D088,Dr. Rajeev Gupta,डॉ. Ra Gu,Oncology,Blood Cancer,Senior Consultant,Noida Cancer Center,Greater Noida,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.1,250,15,True,1354,24
+D089,Dr. Amit Rastogi,डॉ. Am Ra,Oncology,Kidney Cancer,Senior Consultant,Saket Cancer Institute,Indirapuram,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",4.7,919,10,True,2906,29
+D090,Dr. Ritu Bansal,डॉ. Ri Ba,Oncology,Prostate Cancer,Consultant,Cyber City Oncology Centre,Delhi Rohini,"English,Hindi",Prostate Tumor,3.6,225,10,True,1535,15
+D091,Dr. Varun Goel,डॉ. Va Go,Oncology,Pediatric Cancer,Senior Consultant,Ghaziabad Tumor Centre,Gurugram Cyber City,"English,Hindi","Pediatric Leukemia,Neuroblastoma",3.8,1440,10,True,971,29
+D092,Dr. Sameer Choudhary,डॉ. Sa Ch,Oncology,Ovarian Cancer,Chief Oncologist,Noida Cancer Center,Delhi Rohini,"English,Hindi",Ovarian Tumor,4.1,696,10,True,1211,19
+D093,Dr. Geeta Yadav,डॉ. Ge Ya,Oncology,Skin Cancer,Senior Consultant,Indirapuram Cancer Care,Delhi Saket,"English,Hindi","Melanoma,Non-Melanoma Skin Cancer",5.0,572,10,False,1731,26
+D094,Dr. Geeta Patel,डॉ. Ge Pa,Oncology,Pediatric Cancer,Chief Oncologist,Gurugram Super Speciality Oncology,Ghaziabad,"English,Hindi","Pediatric Leukemia,Neuroblastoma",3.8,1085,10,False,1019,17
+D095,Dr. Priya Jain,डॉ. Pr Ja,Oncology,Prostate Cancer,Senior Consultant,Ghaziabad Tumor Centre,Noida Sector 18,"English,Hindi",Prostate Tumor,4.2,975,10,True,1363,22
+D096,Dr. Sneha Choudhary,डॉ. Sn Ch,Oncology,Breast Cancer,Chief Oncologist,Noida Cancer Center,Noida Sector 62,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",4.6,1303,10,True,1665,9
+D097,Dr. Yash Verma,डॉ. Ya Ve,Oncology,Brain Tumor,Chief Oncologist,Saket Cancer Institute,Greater Noida,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",4.5,852,15,True,2415,8
+D098,Dr. Kavita Choudhary,डॉ. Ka Ch,Oncology,Lung Cancer,Senior Consultant,Cyber City Oncology Centre,Noida Sector 62,"English,Hindi","NSCLC,SCLC,Lung Tumor",3.6,1186,15,False,952,11
+D099,Dr. Sneha Verma,डॉ. Sn Ve,Oncology,Breast Cancer,Consultant,Faridabad Oncology Hospital,Delhi Rohini,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",3.5,478,10,False,1916,19
+D100,Dr. Ritu Sharma,डॉ. Ri Sh,Oncology,Blood Cancer,Consultant,Noida Cancer Center,Botanical Garden,"English,Hindi","Leukemia,Lymphoma,Myeloma",5.0,893,15,True,2842,26
+D101,Dr. Manish Kapoor,डॉ. Ma Ka,Oncology,Blood Cancer,Consultant,Cyber City Oncology Centre,Ghaziabad,"English,Hindi","Leukemia,Lymphoma,Myeloma",3.8,1403,10,True,2360,6
+D102,Dr. Anjali Gupta,डॉ. An Gu,Oncology,Kidney Cancer,Consultant,Delhi Apex Cancer Hospital,Indirapuram,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",3.8,363,10,True,1056,28
+D103,Dr. Karan Rao,डॉ. Ka Ra,Oncology,Brain Tumor,Chief Oncologist,Noida Oncology Institute,Delhi Rohini,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",3.9,651,15,True,667,18
+D104,Dr. Priya Singh,डॉ. Pr Si,Oncology,Blood Cancer,Senior Consultant,Noida Cancer Center,Greater Noida,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.2,1198,15,False,2545,19
+D105,Dr. Karan Jain,डॉ. Ka Ja,Oncology,Cervical Cancer,Consultant,Gurugram Super Speciality Oncology,Delhi Saket,"English,Hindi",Cervical Tumor,3.6,1347,10,False,804,13
+D106,Dr. Vikram Choudhary,डॉ. Vi Ch,Oncology,Stomach Cancer,Consultant,Indirapuram Cancer Care,Noida Sector 18,"English,Hindi","Gastric Cancer,Liver Cancer,Colon Cancer",4.6,406,15,True,1150,20
+D107,Dr. Rajeev Sharma,डॉ. Ra Sh,Oncology,Lung Cancer,Consultant,Gurugram Super Speciality Oncology,Gurugram Cyber City,"English,Hindi","NSCLC,SCLC,Lung Tumor",3.6,812,15,True,1831,8
+D108,Dr. Rakesh Jain,डॉ. Ra Ja,Oncology,Kidney Cancer,Senior Consultant,Noida Oncology Institute,Noida Sector 18,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",4.0,405,10,True,2052,18
+D109,Dr. Geeta Yadav,डॉ. Ge Ya,Oncology,Pediatric Cancer,Chief Oncologist,Delhi Apex Cancer Hospital,Faridabad,"English,Hindi","Pediatric Leukemia,Neuroblastoma",3.9,1361,10,True,2294,11
+D110,Dr. Manish Choudhary,डॉ. Ma Ch,Oncology,Lung Cancer,Chief Oncologist,Indirapuram Cancer Care,Indirapuram,"English,Hindi","NSCLC,SCLC,Lung Tumor",4.7,239,15,False,1902,7
+D111,Dr. Kavita Kapoor,डॉ. Ka Ka,Oncology,Kidney Cancer,Chief Oncologist,Indirapuram Cancer Care,Delhi Rohini,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",4.9,539,15,True,1804,18
+D112,Dr. Anjali Jain,डॉ. An Ja,Oncology,Brain Tumor,Chief Oncologist,Delhi Apex Cancer Hospital,Delhi Rohini,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",4.6,1249,10,True,2799,27
+D113,Dr. Sanjay Verma,डॉ. Sa Ve,Oncology,Ovarian Cancer,Chief Oncologist,Indirapuram Cancer Care,Botanical Garden,"English,Hindi",Ovarian Tumor,5.0,808,10,False,1639,25
+D114,Dr. Geeta Patel,डॉ. Ge Pa,Oncology,Ovarian Cancer,Consultant,Gurugram Super Speciality Oncology,Gurugram Cyber City,"English,Hindi",Ovarian Tumor,4.5,188,10,False,684,5
+D115,Dr. Ritu Jain,डॉ. Ri Ja,Oncology,Stomach Cancer,Senior Consultant,Faridabad Oncology Hospital,Greater Noida,"English,Hindi","Gastric Cancer,Liver Cancer,Colon Cancer",4.3,946,15,True,1109,8
+D116,Dr. Rakesh Sharma,डॉ. Ra Sh,Oncology,Skin Cancer,Consultant,Gurugram Super Speciality Oncology,Delhi Saket,"English,Hindi","Melanoma,Non-Melanoma Skin Cancer",4.7,150,10,True,1811,25
+D117,Dr. Anjali Patel,डॉ. An Pa,Oncology,Ovarian Cancer,Consultant,Indirapuram Cancer Care,Gurugram Cyber City,"English,Hindi",Ovarian Tumor,5.0,1150,10,False,1250,5
+D118,Dr. Amit Rastogi,डॉ. Am Ra,Oncology,Kidney Cancer,Senior Consultant,Ghaziabad Tumor Centre,Botanical Garden,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",3.8,334,10,False,2350,29
+D119,Dr. Anjali Kapoor,डॉ. An Ka,Oncology,Kidney Cancer,Chief Oncologist,Indirapuram Cancer Care,Gurugram Cyber City,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",4.4,1338,10,True,2848,5
+D120,Dr. Yash Kapoor,डॉ. Ya Ka,Oncology,Prostate Cancer,Senior Consultant,Indirapuram Cancer Care,Botanical Garden,"English,Hindi",Prostate Tumor,4.4,812,15,True,878,22
+D121,Dr. Geeta Gupta,डॉ. Ge Gu,Oncology,Bone Cancer,Consultant,Cyber City Oncology Centre,Ghaziabad,"English,Hindi","Sarcoma,Osteosarcoma",3.9,504,15,False,1418,13
+D122,Dr. Vikram Agarwal,डॉ. Vi Ag,Oncology,Kidney Cancer,Chief Oncologist,Noida Oncology Institute,Delhi Rohini,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",4.2,681,15,True,2073,11
+D123,Dr. Vikram Goel,डॉ. Vi Go,Oncology,Lung Cancer,Chief Oncologist,Botanical Oncology Hospital,Delhi Rohini,"English,Hindi","NSCLC,SCLC,Lung Tumor",3.9,956,15,False,2061,14
+D124,Dr. Karan Patel,डॉ. Ka Pa,Oncology,Skin Cancer,Senior Consultant,Delhi Apex Cancer Hospital,Ghaziabad,"English,Hindi","Melanoma,Non-Melanoma Skin Cancer",4.3,234,10,False,2477,11
+D125,Dr. Karan Verma,डॉ. Ka Ve,Oncology,Ovarian Cancer,Senior Consultant,Saket Cancer Institute,Gurugram Cyber City,"English,Hindi",Ovarian Tumor,4.8,1467,10,False,1851,12
+D126,Dr. Vikram Goel,डॉ. Vi Go,Oncology,Bone Cancer,Consultant,Noida Oncology Institute,Noida Sector 62,"English,Hindi","Sarcoma,Osteosarcoma",4.9,570,10,False,932,18
+D127,Dr. Pooja Rastogi,डॉ. Po Ra,Oncology,Skin Cancer,Consultant,Gurugram Super Speciality Oncology,Faridabad,"English,Hindi","Melanoma,Non-Melanoma Skin Cancer",4.8,350,15,False,1081,11
+D128,Dr. Amit Bansal,डॉ. Am Ba,Oncology,Skin Cancer,Chief Oncologist,Saket Cancer Institute,Botanical Garden,"English,Hindi","Melanoma,Non-Melanoma Skin Cancer",4.5,565,10,True,1621,25
+D129,Dr. Geeta Kapoor,डॉ. Ge Ka,Oncology,Prostate Cancer,Consultant,Noida Oncology Institute,Ghaziabad,"English,Hindi",Prostate Tumor,4.3,588,15,True,2560,17
+D130,Dr. Rakesh Singh,डॉ. Ra Si,Oncology,Brain Tumor,Consultant,Noida Oncology Institute,Botanical Garden,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",4.7,264,15,True,2658,22
+D131,Dr. Harsh Gupta,डॉ. Ha Gu,Oncology,Bone Cancer,Senior Consultant,Saket Cancer Institute,Noida Sector 18,"English,Hindi","Sarcoma,Osteosarcoma",4.1,954,15,False,2962,14
+D132,Dr. Vikram Verma,डॉ. Vi Ve,Oncology,Cervical Cancer,Chief Oncologist,Noida Oncology Institute,Noida Sector 62,"English,Hindi",Cervical Tumor,3.8,1207,15,True,2608,21
+D133,Dr. Manish Patel,डॉ. Ma Pa,Oncology,Blood Cancer,Chief Oncologist,Botanical Oncology Hospital,Botanical Garden,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.0,1001,10,True,2139,9
+D134,Dr. Sameer Singh,डॉ. Sa Si,Oncology,Stomach Cancer,Chief Oncologist,Botanical Oncology Hospital,Gurugram Cyber City,"English,Hindi","Gastric Cancer,Liver Cancer,Colon Cancer",3.7,1357,15,True,1205,25
+D135,Dr. Nidhi Jain,डॉ. Ni Ja,Oncology,Breast Cancer,Senior Consultant,Cyber City Oncology Centre,Faridabad,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",4.1,281,10,False,1318,23
+D136,Dr. Kavita Patel,डॉ. Ka Pa,Oncology,Lung Cancer,Senior Consultant,Noida Oncology Institute,Noida Sector 62,"English,Hindi","NSCLC,SCLC,Lung Tumor",4.3,192,10,True,1021,14
+D137,Dr. Anjali Mehra,डॉ. An Me,Oncology,Breast Cancer,Chief Oncologist,Indirapuram Cancer Care,Delhi Saket,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",4.7,630,15,False,851,26
+D138,Dr. Manish Yadav,डॉ. Ma Ya,Oncology,Ovarian Cancer,Senior Consultant,Faridabad Oncology Hospital,Noida Sector 18,"English,Hindi",Ovarian Tumor,4.3,365,15,False,2719,12
+D139,Dr. Nidhi Jain,डॉ. Ni Ja,Oncology,Ovarian Cancer,Chief Oncologist,Ghaziabad Tumor Centre,Faridabad,"English,Hindi",Ovarian Tumor,3.7,258,15,False,1797,7
+D140,Dr. Nidhi Singh,डॉ. Ni Si,Oncology,Kidney Cancer,Consultant,Ghaziabad Tumor Centre,Indirapuram,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",4.9,1485,15,True,2603,5
+D141,Dr. Anjali Verma,डॉ. An Ve,Oncology,Lung Cancer,Consultant,Botanical Oncology Hospital,Botanical Garden,"English,Hindi","NSCLC,SCLC,Lung Tumor",4.4,1285,15,True,692,26
+D142,Dr. Yash Gupta,डॉ. Ya Gu,Oncology,Blood Cancer,Consultant,Noida Oncology Institute,Delhi Rohini,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.7,568,15,True,2421,29
+D143,Dr. Sneha Mehra,डॉ. Sn Me,Oncology,Kidney Cancer,Senior Consultant,Botanical Oncology Hospital,Botanical Garden,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",4.0,435,15,True,1267,10
+D144,Dr. Sameer Rao,डॉ. Sa Ra,Oncology,Pediatric Cancer,Chief Oncologist,Ghaziabad Tumor Centre,Greater Noida,"English,Hindi","Pediatric Leukemia,Neuroblastoma",3.8,1119,10,True,837,15
+D145,Dr. Anjali Patel,डॉ. An Pa,Oncology,Cervical Cancer,Chief Oncologist,Ghaziabad Tumor Centre,Indirapuram,"English,Hindi",Cervical Tumor,4.8,1182,10,False,1931,24
+D146,Dr. Manish Goel,डॉ. Ma Go,Oncology,Prostate Cancer,Senior Consultant,Noida Oncology Institute,Botanical Garden,"English,Hindi",Prostate Tumor,4.5,203,15,False,2456,22
+D147,Dr. Pooja Bansal,डॉ. Po Ba,Oncology,Skin Cancer,Consultant,Gurugram Super Speciality Oncology,Greater Noida,"English,Hindi","Melanoma,Non-Melanoma Skin Cancer",4.8,1400,10,True,2851,11
+D148,Dr. Vikram Sharma,डॉ. Vi Sh,Oncology,Blood Cancer,Chief Oncologist,Cyber City Oncology Centre,Botanical Garden,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.4,1305,15,False,2399,18
+D149,Dr. Manish Kapoor,डॉ. Ma Ka,Oncology,Prostate Cancer,Consultant,Noida Cancer Center,Delhi Saket,"English,Hindi",Prostate Tumor,3.6,335,10,False,2262,27
+D150,Dr. Sneha Yadav,डॉ. Sn Ya,Oncology,Kidney Cancer,Consultant,Delhi Apex Cancer Hospital,Indirapuram,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",3.6,1412,15,False,1495,13
+D151,Dr. Vikram Verma,डॉ. Vi Ve,Oncology,Ovarian Cancer,Senior Consultant,Indirapuram Cancer Care,Noida Sector 18,"English,Hindi",Ovarian Tumor,4.2,314,15,False,1930,6
+D152,Dr. Varun Rao,डॉ. Va Ra,Oncology,Brain Tumor,Consultant,Delhi Apex Cancer Hospital,Indirapuram,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",3.6,612,15,False,2206,7
+D153,Dr. Ritu Verma,डॉ. Ri Ve,Oncology,Pediatric Cancer,Consultant,Noida Cancer Center,Ghaziabad,"English,Hindi","Pediatric Leukemia,Neuroblastoma",4.6,704,15,True,2389,20
+D154,Dr. Geeta Agarwal,डॉ. Ge Ag,Oncology,Brain Tumor,Chief Oncologist,Ghaziabad Tumor Centre,Greater Noida,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",4.0,1287,15,True,1600,20
+D155,Dr. Karan Kapoor,डॉ. Ka Ka,Oncology,Prostate Cancer,Senior Consultant,Indirapuram Cancer Care,Faridabad,"English,Hindi",Prostate Tumor,4.9,968,15,False,1397,17
+D156,Dr. Geeta Kapoor,डॉ. Ge Ka,Oncology,Stomach Cancer,Consultant,Delhi Apex Cancer Hospital,Ghaziabad,"English,Hindi","Gastric Cancer,Liver Cancer,Colon Cancer",4.5,880,15,True,904,6
+D157,Dr. Manish Jain,डॉ. Ma Ja,Oncology,Pediatric Cancer,Consultant,Faridabad Oncology Hospital,Greater Noida,"English,Hindi","Pediatric Leukemia,Neuroblastoma",4.4,1453,10,True,2328,28
+D158,Dr. Manish Mehra,डॉ. Ma Me,Oncology,Brain Tumor,Chief Oncologist,Faridabad Oncology Hospital,Faridabad,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",4.1,890,15,False,952,16
+D159,Dr. Pooja Choudhary,डॉ. Po Ch,Oncology,Blood Cancer,Consultant,Indirapuram Cancer Care,Greater Noida,"English,Hindi","Leukemia,Lymphoma,Myeloma",3.5,429,15,True,1082,8
+D160,Dr. Neha Agarwal,डॉ. Ne Ag,Oncology,Lung Cancer,Consultant,Gurugram Super Speciality Oncology,Greater Noida,"English,Hindi","NSCLC,SCLC,Lung Tumor",4.2,123,10,False,1184,6
+D161,Dr. Sneha Patel,डॉ. Sn Pa,Oncology,Bone Cancer,Chief Oncologist,Gurugram Super Speciality Oncology,Gurugram Cyber City,"English,Hindi","Sarcoma,Osteosarcoma",4.4,916,15,True,1255,26
+D162,Dr. Priya Verma,डॉ. Pr Ve,Oncology,Prostate Cancer,Consultant,Noida Oncology Institute,Greater Noida,"English,Hindi",Prostate Tumor,3.7,1365,15,False,1480,14
+D163,Dr. Yash Patel,डॉ. Ya Pa,Oncology,Cervical Cancer,Chief Oncologist,Noida Cancer Center,Ghaziabad,"English,Hindi",Cervical Tumor,4.7,1172,15,False,1274,16
+D164,Dr. Pooja Sharma,डॉ. Po Sh,Oncology,Pediatric Cancer,Chief Oncologist,Noida Oncology Institute,Botanical Garden,"English,Hindi","Pediatric Leukemia,Neuroblastoma",3.7,903,10,False,2717,20
+D165,Dr. Priya Gupta,डॉ. Pr Gu,Oncology,Stomach Cancer,Chief Oncologist,Ghaziabad Tumor Centre,Delhi Rohini,"English,Hindi","Gastric Cancer,Liver Cancer,Colon Cancer",4.1,238,10,True,1208,25
+D166,Dr. Rajeev Rao,डॉ. Ra Ra,Oncology,Brain Tumor,Chief Oncologist,Ghaziabad Tumor Centre,Indirapuram,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",4.9,81,15,True,693,19
+D167,Dr. Geeta Verma,डॉ. Ge Ve,Oncology,Kidney Cancer,Consultant,Faridabad Oncology Hospital,Ghaziabad,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",4.8,1391,15,True,758,12
+D168,Dr. Rajeev Gupta,डॉ. Ra Gu,Oncology,Lung Cancer,Senior Consultant,Noida Oncology Institute,Noida Sector 18,"English,Hindi","NSCLC,SCLC,Lung Tumor",4.4,1003,10,True,2759,24
+D169,Dr. Ritu Rao,डॉ. Ri Ra,Oncology,Blood Cancer,Senior Consultant,Saket Cancer Institute,Greater Noida,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.3,1094,15,False,2278,21
+D170,Dr. Sameer Bansal,डॉ. Sa Ba,Oncology,Prostate Cancer,Chief Oncologist,Noida Cancer Center,Noida Sector 18,"English,Hindi",Prostate Tumor,3.9,1344,15,True,2072,11
+D171,Dr. Manish Singh,डॉ. Ma Si,Oncology,Prostate Cancer,Chief Oncologist,Ghaziabad Tumor Centre,Delhi Rohini,"English,Hindi",Prostate Tumor,4.3,1461,15,False,2609,26
+D172,Dr. Kavita Mehra,डॉ. Ka Me,Oncology,Ovarian Cancer,Chief Oncologist,Noida Oncology Institute,Botanical Garden,"English,Hindi",Ovarian Tumor,3.7,1441,10,True,1966,5
+D173,Dr. Harsh Yadav,डॉ. Ha Ya,Oncology,Bone Cancer,Chief Oncologist,Noida Oncology Institute,Botanical Garden,"English,Hindi","Sarcoma,Osteosarcoma",4.7,321,15,True,1739,20
+D174,Dr. Priya Bansal,डॉ. Pr Ba,Oncology,Lung Cancer,Senior Consultant,Gurugram Super Speciality Oncology,Delhi Rohini,"English,Hindi","NSCLC,SCLC,Lung Tumor",3.7,671,15,False,844,19
+D175,Dr. Varun Rao,डॉ. Va Ra,Oncology,Prostate Cancer,Consultant,Noida Cancer Center,Delhi Rohini,"English,Hindi",Prostate Tumor,4.3,1235,15,False,1190,17
+D176,Dr. Sanjay Gupta,डॉ. Sa Gu,Oncology,Brain Tumor,Consultant,Indirapuram Cancer Care,Delhi Rohini,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",4.9,1228,10,True,1728,21
+D177,Dr. Sameer Mehra,डॉ. Sa Me,Oncology,Breast Cancer,Consultant,Botanical Oncology Hospital,Indirapuram,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",4.5,608,15,False,560,26
+D178,Dr. Harsh Mehra,डॉ. Ha Me,Oncology,Blood Cancer,Consultant,Faridabad Oncology Hospital,Faridabad,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.8,72,10,True,1212,18
+D179,Dr. Manish Choudhary,डॉ. Ma Ch,Oncology,Kidney Cancer,Consultant,Cyber City Oncology Centre,Noida Sector 18,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",3.7,1245,15,False,684,22
+D180,Dr. Anjali Yadav,डॉ. An Ya,Oncology,Blood Cancer,Senior Consultant,Noida Cancer Center,Indirapuram,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.4,391,15,True,2391,10
+D181,Dr. Manish Patel,डॉ. Ma Pa,Oncology,Ovarian Cancer,Consultant,Botanical Oncology Hospital,Gurugram Cyber City,"English,Hindi",Ovarian Tumor,4.5,945,15,False,1880,18
+D182,Dr. Ritu Jain,डॉ. Ri Ja,Oncology,Ovarian Cancer,Senior Consultant,Noida Cancer Center,Gurugram Cyber City,"English,Hindi",Ovarian Tumor,4.4,1481,15,False,1135,11
+D183,Dr. Priya Patel,डॉ. Pr Pa,Oncology,Lung Cancer,Senior Consultant,Botanical Oncology Hospital,Delhi Rohini,"English,Hindi","NSCLC,SCLC,Lung Tumor",5.0,809,10,False,2986,25
+D184,Dr. Karan Agarwal,डॉ. Ka Ag,Oncology,Lung Cancer,Senior Consultant,Faridabad Oncology Hospital,Faridabad,"English,Hindi","NSCLC,SCLC,Lung Tumor",3.7,1251,10,False,2298,6
+D185,Dr. Amit Goel,डॉ. Am Go,Oncology,Brain Tumor,Senior Consultant,Ghaziabad Tumor Centre,Indirapuram,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",4.4,253,10,True,697,18
+D186,Dr. Manish Yadav,डॉ. Ma Ya,Oncology,Bone Cancer,Senior Consultant,Delhi Apex Cancer Hospital,Gurugram Cyber City,"English,Hindi","Sarcoma,Osteosarcoma",3.7,708,15,False,665,30
+D187,Dr. Sanjay Yadav,डॉ. Sa Ya,Oncology,Stomach Cancer,Chief Oncologist,Faridabad Oncology Hospital,Gurugram Cyber City,"English,Hindi","Gastric Cancer,Liver Cancer,Colon Cancer",4.3,510,10,True,1981,19
+D188,Dr. Sneha Kapoor,डॉ. Sn Ka,Oncology,Breast Cancer,Chief Oncologist,Noida Cancer Center,Delhi Saket,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",4.8,648,15,False,1175,8
+D189,Dr. Harsh Mehra,डॉ. Ha Me,Oncology,Skin Cancer,Senior Consultant,Delhi Apex Cancer Hospital,Indirapuram,"English,Hindi","Melanoma,Non-Melanoma Skin Cancer",3.7,915,10,True,2071,19
+D190,Dr. Anjali Choudhary,डॉ. An Ch,Oncology,Blood Cancer,Chief Oncologist,Faridabad Oncology Hospital,Botanical Garden,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.9,57,10,True,564,27
+D191,Dr. Nidhi Agarwal,डॉ. Ni Ag,Oncology,Pediatric Cancer,Senior Consultant,Delhi Apex Cancer Hospital,Noida Sector 62,"English,Hindi","Pediatric Leukemia,Neuroblastoma",3.9,924,10,True,1749,11
+D192,Dr. Karan Yadav,डॉ. Ka Ya,Oncology,Brain Tumor,Senior Consultant,Indirapuram Cancer Care,Faridabad,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",3.6,230,10,False,2374,8
+D193,Dr. Rakesh Bansal,डॉ. Ra Ba,Oncology,Lung Cancer,Chief Oncologist,Noida Cancer Center,Botanical Garden,"English,Hindi","NSCLC,SCLC,Lung Tumor",4.7,220,10,True,584,20
+D194,Dr. Geeta Agarwal,डॉ. Ge Ag,Oncology,Blood Cancer,Chief Oncologist,Indirapuram Cancer Care,Delhi Saket,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.6,1306,15,True,1871,26
+D195,Dr. Manish Choudhary,डॉ. Ma Ch,Oncology,Kidney Cancer,Chief Oncologist,Botanical Oncology Hospital,Delhi Rohini,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",4.3,673,15,False,2877,29
+D196,Dr. Karan Verma,डॉ. Ka Ve,Oncology,Stomach Cancer,Senior Consultant,Noida Cancer Center,Ghaziabad,"English,Hindi","Gastric Cancer,Liver Cancer,Colon Cancer",4.2,359,10,False,631,20
+D197,Dr. Geeta Choudhary,डॉ. Ge Ch,Oncology,Ovarian Cancer,Chief Oncologist,Ghaziabad Tumor Centre,Noida Sector 62,"English,Hindi",Ovarian Tumor,3.8,179,15,True,1548,30
+D198,Dr. Karan Bansal,डॉ. Ka Ba,Oncology,Cervical Cancer,Chief Oncologist,Faridabad Oncology Hospital,Greater Noida,"English,Hindi",Cervical Tumor,3.7,1277,10,False,545,29
+D199,Dr. Pooja Kapoor,डॉ. Po Ka,Oncology,Stomach Cancer,Consultant,Delhi Apex Cancer Hospital,Noida Sector 62,"English,Hindi","Gastric Cancer,Liver Cancer,Colon Cancer",4.9,564,15,False,1086,27
+D200,Dr. Nidhi Sharma,डॉ. Ni Sh,Oncology,Stomach Cancer,Senior Consultant,Botanical Oncology Hospital,Ghaziabad,"English,Hindi","Gastric Cancer,Liver Cancer,Colon Cancer",4.3,583,10,True,2165,23
+D201,Dr. Sameer Rao,डॉ. Sa Ra,Oncology,Breast Cancer,Senior Consultant,Cyber City Oncology Centre,Greater Noida,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",5.0,1053,15,False,503,17
+D202,Dr. Ritu Rastogi,डॉ. Ri Ra,Oncology,Breast Cancer,Senior Consultant,Gurugram Super Speciality Oncology,Gurugram Cyber City,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",4.2,878,10,True,1622,16
+D203,Dr. Sneha Rastogi,डॉ. Sn Ra,Oncology,Bone Cancer,Senior Consultant,Cyber City Oncology Centre,Noida Sector 62,"English,Hindi","Sarcoma,Osteosarcoma",4.9,1312,10,False,2328,28
+D204,Dr. Priya Yadav,डॉ. Pr Ya,Oncology,Bone Cancer,Chief Oncologist,Faridabad Oncology Hospital,Indirapuram,"English,Hindi","Sarcoma,Osteosarcoma",4.5,598,15,True,2683,18
+D205,Dr. Rajeev Patel,डॉ. Ra Pa,Oncology,Kidney Cancer,Senior Consultant,Saket Cancer Institute,Gurugram Cyber City,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",4.2,1128,15,False,884,16
+D206,Dr. Harsh Singh,डॉ. Ha Si,Oncology,Skin Cancer,Chief Oncologist,Indirapuram Cancer Care,Delhi Rohini,"English,Hindi","Melanoma,Non-Melanoma Skin Cancer",4.6,468,15,False,911,9
+D207,Dr. Sanjay Mehra,डॉ. Sa Me,Oncology,Cervical Cancer,Chief Oncologist,Cyber City Oncology Centre,Botanical Garden,"English,Hindi",Cervical Tumor,4.8,119,10,True,1229,11
+D208,Dr. Sameer Choudhary,डॉ. Sa Ch,Oncology,Bone Cancer,Chief Oncologist,Indirapuram Cancer Care,Botanical Garden,"English,Hindi","Sarcoma,Osteosarcoma",3.9,900,15,True,2079,10
+D209,Dr. Geeta Verma,डॉ. Ge Ve,Oncology,Skin Cancer,Consultant,Botanical Oncology Hospital,Noida Sector 62,"English,Hindi","Melanoma,Non-Melanoma Skin Cancer",3.7,1002,15,True,2589,15
+D210,Dr. Amit Sharma,डॉ. Am Sh,Oncology,Lung Cancer,Senior Consultant,Saket Cancer Institute,Faridabad,"English,Hindi","NSCLC,SCLC,Lung Tumor",4.1,159,10,False,1360,23
+D211,Dr. Karan Goel,डॉ. Ka Go,Oncology,Cervical Cancer,Chief Oncologist,Noida Oncology Institute,Faridabad,"English,Hindi",Cervical Tumor,3.7,1151,10,False,1189,15
+D212,Dr. Yash Rao,डॉ. Ya Ra,Oncology,Ovarian Cancer,Senior Consultant,Cyber City Oncology Centre,Botanical Garden,"English,Hindi",Ovarian Tumor,3.8,537,15,False,2875,15
+D213,Dr. Manish Singh,डॉ. Ma Si,Oncology,Breast Cancer,Senior Consultant,Faridabad Oncology Hospital,Noida Sector 18,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",4.8,364,10,False,2684,23
+D214,Dr. Anjali Gupta,डॉ. An Gu,Oncology,Cervical Cancer,Chief Oncologist,Faridabad Oncology Hospital,Faridabad,"English,Hindi",Cervical Tumor,5.0,1106,10,False,727,8
+D215,Dr. Rakesh Rastogi,डॉ. Ra Ra,Oncology,Stomach Cancer,Senior Consultant,Noida Oncology Institute,Noida Sector 18,"English,Hindi","Gastric Cancer,Liver Cancer,Colon Cancer",5.0,705,15,True,744,11
+D216,Dr. Nidhi Singh,डॉ. Ni Si,Oncology,Prostate Cancer,Chief Oncologist,Faridabad Oncology Hospital,Noida Sector 18,"English,Hindi",Prostate Tumor,4.2,1419,15,True,1106,23
+D217,Dr. Anjali Jain,डॉ. An Ja,Oncology,Lung Cancer,Senior Consultant,Botanical Oncology Hospital,Greater Noida,"English,Hindi","NSCLC,SCLC,Lung Tumor",4.6,413,10,True,2131,11
+D218,Dr. Karan Agarwal,डॉ. Ka Ag,Oncology,Prostate Cancer,Chief Oncologist,Ghaziabad Tumor Centre,Greater Noida,"English,Hindi",Prostate Tumor,5.0,1294,10,True,2195,25
+D219,Dr. Karan Agarwal,डॉ. Ka Ag,Oncology,Kidney Cancer,Senior Consultant,Noida Cancer Center,Noida Sector 18,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",4.7,1188,10,True,1608,20
+D220,Dr. Amit Rao,डॉ. Am Ra,Oncology,Brain Tumor,Senior Consultant,Delhi Apex Cancer Hospital,Delhi Saket,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",3.7,985,15,True,1032,17
+D221,Dr. Sanjay Rastogi,डॉ. Sa Ra,Oncology,Kidney Cancer,Consultant,Faridabad Oncology Hospital,Noida Sector 62,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",4.2,939,10,True,1969,30
+D222,Dr. Anjali Kapoor,डॉ. An Ka,Oncology,Breast Cancer,Chief Oncologist,Saket Cancer Institute,Delhi Rohini,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",4.1,1303,15,True,2898,29
+D223,Dr. Kavita Agarwal,डॉ. Ka Ag,Oncology,Lung Cancer,Senior Consultant,Indirapuram Cancer Care,Gurugram Cyber City,"English,Hindi","NSCLC,SCLC,Lung Tumor",3.7,812,15,True,1179,15
+D224,Dr. Neha Rastogi,डॉ. Ne Ra,Oncology,Brain Tumor,Chief Oncologist,Saket Cancer Institute,Delhi Saket,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",3.7,606,10,False,721,24
+D225,Dr. Neha Patel,डॉ. Ne Pa,Oncology,Bone Cancer,Chief Oncologist,Delhi Apex Cancer Hospital,Greater Noida,"English,Hindi","Sarcoma,Osteosarcoma",3.9,1232,10,False,2332,16
+D226,Dr. Neha Bansal,डॉ. Ne Ba,Oncology,Pediatric Cancer,Consultant,Gurugram Super Speciality Oncology,Noida Sector 62,"English,Hindi","Pediatric Leukemia,Neuroblastoma",4.0,790,10,True,1886,25
+D227,Dr. Sneha Kapoor,डॉ. Sn Ka,Oncology,Blood Cancer,Consultant,Ghaziabad Tumor Centre,Noida Sector 18,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.8,757,10,False,810,17
+D228,Dr. Pooja Mehra,डॉ. Po Me,Oncology,Prostate Cancer,Senior Consultant,Indirapuram Cancer Care,Delhi Rohini,"English,Hindi",Prostate Tumor,4.7,397,15,False,2468,10
+D229,Dr. Kavita Singh,डॉ. Ka Si,Oncology,Brain Tumor,Chief Oncologist,Indirapuram Cancer Care,Ghaziabad,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",4.8,951,10,True,1775,19
+D230,Dr. Vikram Agarwal,डॉ. Vi Ag,Oncology,Breast Cancer,Chief Oncologist,Delhi Apex Cancer Hospital,Faridabad,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",4.3,523,10,False,2372,14
+D231,Dr. Nidhi Goel,डॉ. Ni Go,Oncology,Blood Cancer,Consultant,Botanical Oncology Hospital,Greater Noida,"English,Hindi","Leukemia,Lymphoma,Myeloma",3.7,220,10,True,2404,9
+D232,Dr. Priya Patel,डॉ. Pr Pa,Oncology,Pediatric Cancer,Consultant,Noida Oncology Institute,Noida Sector 62,"English,Hindi","Pediatric Leukemia,Neuroblastoma",4.7,819,15,True,656,27
+D233,Dr. Sneha Bansal,डॉ. Sn Ba,Oncology,Skin Cancer,Senior Consultant,Noida Oncology Institute,Ghaziabad,"English,Hindi","Melanoma,Non-Melanoma Skin Cancer",4.4,801,10,False,2171,5
+D234,Dr. Pooja Gupta,डॉ. Po Gu,Oncology,Ovarian Cancer,Senior Consultant,Gurugram Super Speciality Oncology,Greater Noida,"English,Hindi",Ovarian Tumor,3.9,65,10,False,1495,6
+D235,Dr. Yash Choudhary,डॉ. Ya Ch,Oncology,Breast Cancer,Consultant,Noida Cancer Center,Ghaziabad,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",4.6,804,10,True,2139,8
+D236,Dr. Nidhi Sharma,डॉ. Ni Sh,Oncology,Bone Cancer,Chief Oncologist,Ghaziabad Tumor Centre,Noida Sector 18,"English,Hindi","Sarcoma,Osteosarcoma",3.6,780,15,True,1475,25
+D237,Dr. Yash Verma,डॉ. Ya Ve,Oncology,Brain Tumor,Chief Oncologist,Noida Oncology Institute,Ghaziabad,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",3.8,847,10,False,1032,6
+D238,Dr. Varun Verma,डॉ. Va Ve,Oncology,Lung Cancer,Consultant,Noida Cancer Center,Indirapuram,"English,Hindi","NSCLC,SCLC,Lung Tumor",4.7,905,10,True,1623,10
+D239,Dr. Pooja Yadav,डॉ. Po Ya,Oncology,Skin Cancer,Chief Oncologist,Noida Cancer Center,Greater Noida,"English,Hindi","Melanoma,Non-Melanoma Skin Cancer",4.3,1166,10,False,2472,18
+D240,Dr. Varun Yadav,डॉ. Va Ya,Oncology,Stomach Cancer,Senior Consultant,Delhi Apex Cancer Hospital,Noida Sector 18,"English,Hindi","Gastric Cancer,Liver Cancer,Colon Cancer",3.8,788,15,False,2907,13
+D241,Dr. Nidhi Verma,डॉ. Ni Ve,Oncology,Breast Cancer,Consultant,Noida Oncology Institute,Greater Noida,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",3.5,1040,15,False,2857,18
+D242,Dr. Amit Agarwal,डॉ. Am Ag,Oncology,Brain Tumor,Senior Consultant,Indirapuram Cancer Care,Delhi Rohini,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",4.9,1475,15,False,2224,16
+D243,Dr. Sameer Rao,डॉ. Sa Ra,Oncology,Brain Tumor,Consultant,Noida Oncology Institute,Botanical Garden,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",4.9,346,10,True,2045,24
+D244,Dr. Vikram Patel,डॉ. Vi Pa,Oncology,Skin Cancer,Consultant,Cyber City Oncology Centre,Delhi Saket,"English,Hindi","Melanoma,Non-Melanoma Skin Cancer",3.9,1181,10,False,2348,15
+D245,Dr. Yash Verma,डॉ. Ya Ve,Oncology,Prostate Cancer,Chief Oncologist,Faridabad Oncology Hospital,Noida Sector 18,"English,Hindi",Prostate Tumor,4.6,1228,15,True,2864,5
+D246,Dr. Nidhi Bansal,डॉ. Ni Ba,Oncology,Blood Cancer,Senior Consultant,Saket Cancer Institute,Noida Sector 62,"English,Hindi","Leukemia,Lymphoma,Myeloma",3.9,1236,15,True,1315,22
+D247,Dr. Karan Choudhary,डॉ. Ka Ch,Oncology,Skin Cancer,Consultant,Faridabad Oncology Hospital,Greater Noida,"English,Hindi","Melanoma,Non-Melanoma Skin Cancer",3.8,401,15,False,1490,15
+D248,Dr. Rajeev Choudhary,डॉ. Ra Ch,Oncology,Stomach Cancer,Senior Consultant,Delhi Apex Cancer Hospital,Noida Sector 18,"English,Hindi","Gastric Cancer,Liver Cancer,Colon Cancer",3.6,1458,15,False,842,13
+D249,Dr. Sameer Sharma,डॉ. Sa Sh,Oncology,Brain Tumor,Chief Oncologist,Indirapuram Cancer Care,Indirapuram,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",4.0,1267,10,True,1240,16
+D250,Dr. Ritu Mehra,डॉ. Ri Me,Oncology,Brain Tumor,Chief Oncologist,Delhi Apex Cancer Hospital,Greater Noida,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",3.6,100,15,True,2936,9
+D251,Dr. Geeta Agarwal,डॉ. Ge Ag,Oncology,Kidney Cancer,Consultant,Noida Cancer Center,Gurugram Cyber City,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",4.1,631,10,True,2782,15
+D252,Dr. Yash Bansal,डॉ. Ya Ba,Oncology,Kidney Cancer,Senior Consultant,Botanical Oncology Hospital,Delhi Rohini,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",4.6,907,10,False,1928,27
+D253,Dr. Amit Gupta,डॉ. Am Gu,Oncology,Prostate Cancer,Senior Consultant,Delhi Apex Cancer Hospital,Gurugram Cyber City,"English,Hindi",Prostate Tumor,4.8,412,10,False,2932,22
+D254,Dr. Priya Bansal,डॉ. Pr Ba,Oncology,Lung Cancer,Senior Consultant,Botanical Oncology Hospital,Noida Sector 18,"English,Hindi","NSCLC,SCLC,Lung Tumor",4.1,832,10,True,1407,13
+D255,Dr. Sameer Yadav,डॉ. Sa Ya,Oncology,Brain Tumor,Consultant,Delhi Apex Cancer Hospital,Noida Sector 18,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",4.8,929,10,True,2968,16
+D256,Dr. Sameer Verma,डॉ. Sa Ve,Oncology,Kidney Cancer,Consultant,Faridabad Oncology Hospital,Gurugram Cyber City,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",4.7,213,15,True,2079,27
+D257,Dr. Sneha Choudhary,डॉ. Sn Ch,Oncology,Ovarian Cancer,Consultant,Delhi Apex Cancer Hospital,Ghaziabad,"English,Hindi",Ovarian Tumor,4.1,94,15,True,2070,7
+D258,Dr. Nidhi Yadav,डॉ. Ni Ya,Oncology,Brain Tumor,Senior Consultant,Noida Oncology Institute,Ghaziabad,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",3.9,1097,10,False,1451,9
+D259,Dr. Rajeev Gupta,डॉ. Ra Gu,Oncology,Breast Cancer,Chief Oncologist,Faridabad Oncology Hospital,Faridabad,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",3.8,846,15,True,1584,8
+D260,Dr. Priya Jain,डॉ. Pr Ja,Oncology,Breast Cancer,Chief Oncologist,Ghaziabad Tumor Centre,Delhi Rohini,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",4.5,1347,15,False,1644,13
+D261,Dr. Vikram Gupta,डॉ. Vi Gu,Oncology,Ovarian Cancer,Consultant,Cyber City Oncology Centre,Noida Sector 62,"English,Hindi",Ovarian Tumor,4.8,405,15,True,652,20
+D262,Dr. Sneha Sharma,डॉ. Sn Sh,Oncology,Blood Cancer,Chief Oncologist,Faridabad Oncology Hospital,Noida Sector 18,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.8,1457,15,False,1078,26
+D263,Dr. Anjali Gupta,डॉ. An Gu,Oncology,Skin Cancer,Chief Oncologist,Delhi Apex Cancer Hospital,Noida Sector 18,"English,Hindi","Melanoma,Non-Melanoma Skin Cancer",3.5,1352,15,False,2310,26
+D264,Dr. Vikram Patel,डॉ. Vi Pa,Oncology,Breast Cancer,Consultant,Indirapuram Cancer Care,Botanical Garden,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",4.4,1327,10,True,2822,20
+D265,Dr. Rakesh Bansal,डॉ. Ra Ba,Oncology,Cervical Cancer,Consultant,Noida Cancer Center,Botanical Garden,"English,Hindi",Cervical Tumor,4.5,403,10,True,1295,15
+D266,Dr. Yash Singh,डॉ. Ya Si,Oncology,Ovarian Cancer,Consultant,Saket Cancer Institute,Gurugram Cyber City,"English,Hindi",Ovarian Tumor,4.3,1331,10,False,1455,30
+D267,Dr. Anjali Mehra,डॉ. An Me,Oncology,Ovarian Cancer,Senior Consultant,Gurugram Super Speciality Oncology,Delhi Saket,"English,Hindi",Ovarian Tumor,3.8,854,10,True,778,23
+D268,Dr. Sneha Singh,डॉ. Sn Si,Oncology,Brain Tumor,Consultant,Delhi Apex Cancer Hospital,Delhi Saket,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",4.4,1147,10,True,2766,6
+D269,Dr. Yash Sharma,डॉ. Ya Sh,Oncology,Cervical Cancer,Senior Consultant,Ghaziabad Tumor Centre,Noida Sector 62,"English,Hindi",Cervical Tumor,4.0,1297,15,False,644,29
+D270,Dr. Karan Bansal,डॉ. Ka Ba,Oncology,Skin Cancer,Senior Consultant,Delhi Apex Cancer Hospital,Noida Sector 18,"English,Hindi","Melanoma,Non-Melanoma Skin Cancer",4.4,963,15,False,2527,16
+D271,Dr. Anjali Choudhary,डॉ. An Ch,Oncology,Bone Cancer,Chief Oncologist,Cyber City Oncology Centre,Delhi Rohini,"English,Hindi","Sarcoma,Osteosarcoma",3.6,281,10,False,1968,5
+D272,Dr. Nidhi Goel,डॉ. Ni Go,Oncology,Blood Cancer,Consultant,Faridabad Oncology Hospital,Delhi Saket,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.3,1258,10,True,2294,8
+D273,Dr. Ritu Yadav,डॉ. Ri Ya,Oncology,Pediatric Cancer,Senior Consultant,Indirapuram Cancer Care,Noida Sector 62,"English,Hindi","Pediatric Leukemia,Neuroblastoma",4.7,1181,10,False,1458,19
+D274,Dr. Priya Agarwal,डॉ. Pr Ag,Oncology,Blood Cancer,Chief Oncologist,Gurugram Super Speciality Oncology,Gurugram Cyber City,"English,Hindi","Leukemia,Lymphoma,Myeloma",3.8,740,15,False,2492,22
+D275,Dr. Rajeev Kapoor,डॉ. Ra Ka,Oncology,Skin Cancer,Consultant,Saket Cancer Institute,Delhi Rohini,"English,Hindi","Melanoma,Non-Melanoma Skin Cancer",3.8,954,15,False,2417,14
+D276,Dr. Karan Sharma,डॉ. Ka Sh,Oncology,Bone Cancer,Consultant,Indirapuram Cancer Care,Gurugram Cyber City,"English,Hindi","Sarcoma,Osteosarcoma",4.0,635,10,True,1083,15
+D277,Dr. Vikram Sharma,डॉ. Vi Sh,Oncology,Pediatric Cancer,Senior Consultant,Saket Cancer Institute,Ghaziabad,"English,Hindi","Pediatric Leukemia,Neuroblastoma",4.8,451,10,False,2807,22
+D278,Dr. Varun Sharma,डॉ. Va Sh,Oncology,Lung Cancer,Chief Oncologist,Ghaziabad Tumor Centre,Gurugram Cyber City,"English,Hindi","NSCLC,SCLC,Lung Tumor",4.0,1056,10,True,1712,28
+D279,Dr. Neha Sharma,डॉ. Ne Sh,Oncology,Ovarian Cancer,Senior Consultant,Indirapuram Cancer Care,Faridabad,"English,Hindi",Ovarian Tumor,4.3,1360,10,True,2129,6
+D280,Dr. Ritu Rao,डॉ. Ri Ra,Oncology,Bone Cancer,Senior Consultant,Saket Cancer Institute,Noida Sector 62,"English,Hindi","Sarcoma,Osteosarcoma",4.4,705,10,False,1737,16
+D281,Dr. Karan Sharma,डॉ. Ka Sh,Oncology,Cervical Cancer,Consultant,Faridabad Oncology Hospital,Greater Noida,"English,Hindi",Cervical Tumor,4.2,414,15,False,681,20
+D282,Dr. Priya Yadav,डॉ. Pr Ya,Oncology,Breast Cancer,Senior Consultant,Noida Cancer Center,Botanical Garden,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",4.3,496,10,True,1204,17
+D283,Dr. Nidhi Agarwal,डॉ. Ni Ag,Oncology,Brain Tumor,Senior Consultant,Noida Oncology Institute,Botanical Garden,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",4.3,1283,10,True,684,13
+D284,Dr. Amit Kapoor,डॉ. Am Ka,Oncology,Brain Tumor,Consultant,Noida Cancer Center,Ghaziabad,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",3.8,304,15,True,2986,8
+D285,Dr. Geeta Patel,डॉ. Ge Pa,Oncology,Lung Cancer,Consultant,Indirapuram Cancer Care,Indirapuram,"English,Hindi","NSCLC,SCLC,Lung Tumor",4.0,1039,10,False,1713,17
+D286,Dr. Harsh Singh,डॉ. Ha Si,Oncology,Blood Cancer,Chief Oncologist,Gurugram Super Speciality Oncology,Noida Sector 62,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.1,502,15,False,1524,12
+D287,Dr. Pooja Gupta,डॉ. Po Gu,Oncology,Bone Cancer,Senior Consultant,Indirapuram Cancer Care,Delhi Saket,"English,Hindi","Sarcoma,Osteosarcoma",4.7,958,15,True,1194,14
+D288,Dr. Kavita Goel,डॉ. Ka Go,Oncology,Blood Cancer,Senior Consultant,Saket Cancer Institute,Ghaziabad,"English,Hindi","Leukemia,Lymphoma,Myeloma",4.1,617,10,False,2566,8
+D289,Dr. Nidhi Rastogi,डॉ. Ni Ra,Oncology,Breast Cancer,Chief Oncologist,Ghaziabad Tumor Centre,Ghaziabad,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",4.0,1365,15,False,1371,22
+D290,Dr. Nidhi Goel,डॉ. Ni Go,Oncology,Breast Cancer,Chief Oncologist,Gurugram Super Speciality Oncology,Delhi Rohini,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",3.6,311,15,False,762,24
+D291,Dr. Anjali Gupta,डॉ. An Gu,Oncology,Prostate Cancer,Consultant,Gurugram Super Speciality Oncology,Indirapuram,"English,Hindi",Prostate Tumor,4.5,128,10,False,1648,15
+D292,Dr. Geeta Kapoor,डॉ. Ge Ka,Oncology,Breast Cancer,Senior Consultant,Indirapuram Cancer Care,Botanical Garden,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",3.9,719,10,False,1167,20
+D293,Dr. Nidhi Sharma,डॉ. Ni Sh,Oncology,Cervical Cancer,Chief Oncologist,Botanical Oncology Hospital,Delhi Saket,"English,Hindi",Cervical Tumor,4.6,156,10,False,1424,17
+D294,Dr. Manish Singh,डॉ. Ma Si,Oncology,Pediatric Cancer,Chief Oncologist,Noida Cancer Center,Noida Sector 18,"English,Hindi","Pediatric Leukemia,Neuroblastoma",3.8,1386,15,False,824,9
+D295,Dr. Sanjay Gupta,डॉ. Sa Gu,Oncology,Pediatric Cancer,Consultant,Botanical Oncology Hospital,Noida Sector 62,"English,Hindi","Pediatric Leukemia,Neuroblastoma",4.9,151,10,True,790,25
+D296,Dr. Vikram Mehra,डॉ. Vi Me,Oncology,Brain Tumor,Chief Oncologist,Saket Cancer Institute,Botanical Garden,"English,Hindi","Glioblastoma,Meningioma,Astrocytoma",3.8,1092,15,True,1842,23
+D297,Dr. Rakesh Goel,डॉ. Ra Go,Oncology,Prostate Cancer,Consultant,Noida Oncology Institute,Greater Noida,"English,Hindi",Prostate Tumor,4.4,923,15,False,2948,25
+D298,Dr. Sanjay Verma,डॉ. Sa Ve,Oncology,Kidney Cancer,Chief Oncologist,Ghaziabad Tumor Centre,Botanical Garden,"English,Hindi","Renal Cell Carcinoma,Kidney Tumor",4.4,75,10,False,1670,5
+D299,Dr. Ritu Sharma,डॉ. Ri Sh,Oncology,Bone Cancer,Consultant,Delhi Apex Cancer Hospital,Delhi Saket,"English,Hindi","Sarcoma,Osteosarcoma",5.0,127,10,True,2734,22
+D300,Dr. Sneha Sharma,डॉ. Sn Sh,Oncology,Breast Cancer,Consultant,Noida Cancer Center,Faridabad,"English,Hindi","Breast Cancer,TNBC,Ductal Carcinoma",3.5,50,15,False,1331,25
